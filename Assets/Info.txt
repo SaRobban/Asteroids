@@ -1,0 +1,5 @@
+Asteroids med bygg ditt egna skepp (WIP).
+Lite mer strukturerat än pixel platform.
+
+Starta scene “Buildmenu” Bygg ett skepp med hjälp av knapparna till vänster, glöm inte att binda motor till höger. 
+klicka “Exit Dock” knapp för att flyga.
